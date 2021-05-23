@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactbootstrap/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reactbootstrap/static/js/main.ad7bead6.chunk.js",
+    "main.js.map": "/reactbootstrap/static/js/main.ad7bead6.chunk.js.map",
+    "runtime-main.js": "/reactbootstrap/static/js/runtime-main.7a52bf4c.js",
+    "runtime-main.js.map": "/reactbootstrap/static/js/runtime-main.7a52bf4c.js.map",
+    "static/css/2.65af8127.chunk.css": "/reactbootstrap/static/css/2.65af8127.chunk.css",
+    "static/js/2.d1cd5981.chunk.js": "/reactbootstrap/static/js/2.d1cd5981.chunk.js",
+    "static/js/2.d1cd5981.chunk.js.map": "/reactbootstrap/static/js/2.d1cd5981.chunk.js.map",
+    "static/js/3.9681ed52.chunk.js": "/reactbootstrap/static/js/3.9681ed52.chunk.js",
+    "static/js/3.9681ed52.chunk.js.map": "/reactbootstrap/static/js/3.9681ed52.chunk.js.map",
+    "index.html": "/reactbootstrap/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/reactbootstrap/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/reactbootstrap/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d1cd5981.chunk.js.LICENSE.txt": "/reactbootstrap/static/js/2.d1cd5981.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a52bf4c.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.d1cd5981.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ad7bead6.chunk.js"
+  ]
+}
